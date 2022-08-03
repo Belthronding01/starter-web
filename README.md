@@ -12,3 +12,5 @@ asdassdadsfsadf
 ## Purpose
 
 Sample website with plenty of files for demos
+
+2022 Git.Training
