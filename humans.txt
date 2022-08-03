@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	Deniz Akın deniz@git.training @denizgit
 # THANKS
 
     <name>
