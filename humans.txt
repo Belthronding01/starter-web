@@ -6,7 +6,7 @@
 	Deniz Akın deniz@git.training @denizgit
 # THANKS
 
-    <name>
+    All contributers.
 
 # TECHNOLOGY COLOPHON
 
